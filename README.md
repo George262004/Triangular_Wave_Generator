@@ -18,9 +18,6 @@ This circuit is a basic implementation of a triangular wave generator and is int
 - Board and schematic designs ready for fabrication
 
 ## 📸 Preview
-
-> *(You can include screenshots or waveform output images here. Just drag them into the repo or use markdown to embed.)*
-
 ```markdown
-![Schematic Preview](images/schematic.png)
+![Schematic Preview](https://github.com/George262004/triangular_wave_generator/blob/d386ce51dc2f9edbb1a40b9f22bef76862686da3/Images/Schematics.jpeg)
 ![PCB Layout](images/pcb_layout.png)
