@@ -18,7 +18,7 @@ This circuit is a basic implementation of a triangular wave generator and is int
 - Board and schematic designs ready for fabrication
 
 ## 📸 Preview
-```markdown
+
 ![Schematics](https://github.com/user-attachments/assets/c441f331-29d5-413b-99c7-f6e310b3dccc)
 
 
