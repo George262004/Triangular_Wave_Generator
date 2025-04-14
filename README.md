@@ -19,5 +19,23 @@ This circuit is a basic implementation of a triangular wave generator and is int
 
 ## 📸 Preview
 ```markdown
-![Schematic Preview](https://github.com/George262004/triangular_wave_generator/blob/d386ce51dc2f9edbb1a40b9f22bef76862686da3/Images/Schematics.jpeg)
-![PCB Layout](images/pcb_layout.png)
+![Schematics](https://github.com/user-attachments/assets/c441f331-29d5-413b-99c7-f6e310b3dccc)
+
+
+![PCB1](https://github.com/user-attachments/assets/dfac2e49-cd79-48e3-8528-254ad2d34765)
+
+![PCB2](https://github.com/user-attachments/assets/c6ce711a-3395-481a-95c0-f347af3a13e1)
+
+
+![Board Back](https://github.com/user-attachments/assets/e32d68cf-479f-41cd-b0f4-9cf805dce016)
+
+![Board Front](https://github.com/user-attachments/assets/6aea6a96-537b-45d3-8574-d9102d95afec)
+
+![Waveform](https://github.com/user-attachments/assets/5c73ecd1-e7f0-4b32-be96-93ce5b819bf8)
+
+
+
+
+
+
+
